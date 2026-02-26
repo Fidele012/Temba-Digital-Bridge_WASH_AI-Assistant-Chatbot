@@ -5,6 +5,26 @@ A domain-specific generative AI assistant designed to provide intelligent, step-
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6,00B4D8,90E0EF&height=220&section=header&text=Temba%20Digital%20Bridge&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=WASH%20AI%20Assistant%20%7C%20QLoRA%20%2B%20LoRA%20Fine-Tuned%20LLM%20for%20Water%2C%20Sanitation%20%26%20Public%20Health&descSize=14&descAlignY=60" width="100%"/>
 
+An AI-powered chatbot providing guidance on **Water, Sanitation, and Hygiene (WASH)** topics. Built to support communities with accessible, reliable information on water safety, sanitation practices, hygiene, and waterborne disease prevention.
+
+---
+
+## 🚀 Live Application
+
+> ### 👉 [**Try Temba Digital Bridge Live →**](https://huggingface.co/spaces/Fidele-Ndihokubwayo/Temba_Digital_Bridge_AI_Assistant_Chatbot)
+> 
+> **https://huggingface.co/spaces/Fidele-Ndihokubwayo/Temba_Digital_Bridge_AI_Assistant_Chatbot**
+
+---
+
+## 💡 What Can Temba Help With?
+
+- 🚰 **Water Safety** — How to treat, purify, and safely store drinking water
+- 🧼 **Hygiene & Sanitation** — Handwashing, waste disposal, and best practices
+- 🦠 **Waterborne Diseases** — Symptoms, prevention, and treatment of cholera, typhoid, diarrhoea, and more
+- 🏗️ **Infrastructure Guidance** — Wells, boreholes, pipelines, and water storage
+
+---
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
