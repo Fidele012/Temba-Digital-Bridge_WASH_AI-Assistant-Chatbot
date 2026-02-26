@@ -17,6 +17,16 @@ An AI-powered chatbot providing guidance on **Water, Sanitation, and Hygiene (WA
 
 ---
 
+# 🎬 Demo Video
+
+> ### 👉 [**▶ Watch the Demo Video →**](https://drive.google.com/file/d/1w6Y6CrVLmC1lT5luCM973Mi6wKbP9lqP/view?usp=sharing)
+>
+> Click the link above to watch a full walkthrough of Temba Digital Bridge in action.
+>
+> **https://drive.google.com/file/d/1w6Y6CrVLmC1lT5luCM973Mi6wKbP9lqP/view?usp=sharing**
+
+---
+
 ## 💡 What Can Temba Help With?
 
 - 🚰 **Water Safety** — How to treat, purify, and safely store drinking water
